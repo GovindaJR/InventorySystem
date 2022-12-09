@@ -138,7 +138,7 @@ QPushButton:hover{
    </property>
    <property name="icon">
     <iconset>
-     <normaloff>plus.png</normaloff>plus.png</iconset>
+     <normaloff>resources/plus.png</normaloff>resources/plus.png</iconset>
    </property>
   </widget>
   <widget class="Line" name="line">
@@ -228,7 +228,7 @@ QCommandLinkButton:hover {
    </property>
    <property name="icon">
     <iconset>
-     <normaloff>back.png</normaloff>back.png</iconset>
+     <normaloff>resources/back.png</normaloff>resources/back.png</iconset>
    </property>
    <property name="iconSize">
     <size>

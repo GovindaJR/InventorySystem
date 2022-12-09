@@ -2,9 +2,8 @@ from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QApplication, QDialog, QMessageBox, QInputDialog
 from PyQt5 import uic
 import sys
-import scanner
-import database
-
+from scanner import scanner
+from database import database
 
 
 class MainWindow(QDialog):

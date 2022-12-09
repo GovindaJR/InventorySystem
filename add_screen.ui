@@ -152,7 +152,7 @@ QComboBox::drop-down{
 }
 
 QComboBox::down-arrow{
-	image: url(:/icon/down arrow.ico);
+	image: url(:/resources/down arrow.ico);
 	width: 12px;
 	height: 12px;
 	margin-right: 15px;
@@ -289,7 +289,7 @@ QCommandLinkButton:hover {
    </property>
    <property name="icon">
     <iconset>
-     <normaloff>back.png</normaloff>back.png</iconset>
+     <normaloff>resources/back.png</normaloff>resources/back.png</iconset>
    </property>
    <property name="iconSize">
     <size>
